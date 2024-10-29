@@ -8,3 +8,4 @@ Estoy interesado en aprender las siguientes tecnologias:
 - Git
 - Python
 - JavaScript
+- c++
